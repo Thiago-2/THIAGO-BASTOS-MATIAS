@@ -1,0 +1,6 @@
+numero = 1
+
+while numero <= 20:
+    print(numero)
+    numero = numero + 1
+    #While: Enquanto uma condição for verdadeira; usado quando a repetição depende de uma condição  

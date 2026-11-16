@@ -1,0 +1,10 @@
+numeros = []
+
+for i in range(15):
+    numero = int(input("Digite um número inteiro: "))
+    numeros.append(numero)
+
+numeros.sort(reverse=True)
+
+print("Lista em ordem decrescente:")
+print(numeros)
